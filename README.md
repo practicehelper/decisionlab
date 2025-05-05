@@ -1,4 +1,4 @@
-# Business Simulation & Analytics Toolkit
+# decisionlab: Business Simulation & Analytics Toolkit
 
 Welcome to the repository for simulation-based teaching and analytics tools.
 
@@ -30,7 +30,7 @@ By using these tools, students will learn how to:
 ## 📁 Folder Guide
 
 ```bash
-business-simulation-tools/
+decisionlab/
 │
 ├── Excel-Solver/
 │   ├── product_mix_solver.xlsx
