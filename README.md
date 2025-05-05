@@ -1,8 +1,8 @@
 # Business Simulation & Analytics Toolkit
 
-Welcome to the official repository for simulation-based teaching and analytics tools at **Brainware University**, Management Department.
+Welcome to the official repository for simulation-based teaching and analytics tools.
 
-This repository is curated and taught by **[Your Name]**, MBA (IIM Shillong), with a focus on **experiential learning, decision-making, and industry-relevant tools**.
+This repository is curated and taught by me, with a focus on **experiential learning, decision-making, and industry-relevant tools**.
 
 ---
 
